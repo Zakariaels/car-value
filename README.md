@@ -1,6 +1,5 @@
 ## Description
-
-# car-value API enables users to get an estimation of the price of their used car.
+car-value API enables users to get an estimation of the price of their used car.
 
 ## Installation
 
